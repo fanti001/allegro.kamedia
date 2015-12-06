@@ -16,6 +16,16 @@ $CONF_aukcje = array(
 4=>'http://allegro.pl/fototapeta-kuchenna-fototapety-kuchenne-i5772261405.html',
 );
 
+$CONF_aukcje_1 = array(
+	
+1=>'http://allegro.pl/fototapeta-fototapety-psy-koty-konie-i5048731254.html',
+	
+2=>'http://allegro.pl/fototapeta-fototapety-uliczki-producent-i5048730275.html',
+	
+3=>'http://allegro.pl/fototapeta-kuchenna-fototapety-kuchenne-i5772261405.html',
+	
+4=>'http://allegro.pl/fototapeta-kuchenna-fototapety-kuchenne-i5772261405.html',
+);
 
 
 $CONF_aukcje_klej = array(

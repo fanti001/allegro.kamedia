@@ -185,4 +185,6 @@ if (empty($_POST['miodek'])) {
 
 unlink($tmpKadrName);
 
+//print_r($potwierdzenie);
+
 $smarty->display('e-mail.tpl');
