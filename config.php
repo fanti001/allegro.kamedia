@@ -11,9 +11,9 @@ $CONF_aukcje = array(
 	
 2=>'http://allegro.pl/fototapeta-fototapety-uliczki-producent-i5048730275.html',
 	
-3=>'http://allegro.pl/fototapeta-kuchenna-fototapety-kuchenne-i5772261405.html',
+3=>'http://allegro.pl/fototapety-fototapeta-kuchennna-laminowana-i5533802720.html',
 	
-4=>'http://allegro.pl/fototapeta-kuchenna-fototapety-kuchenne-i5772261405.html',
+4=>'http://allegro.pl/fototapety-fototapeta-kuchennna-laminowana-i5533802720.html',
 );
 
 $CONF_aukcje_1 = array(

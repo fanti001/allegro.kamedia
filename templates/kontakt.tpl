@@ -11,14 +11,14 @@ Jesteśmy do Państwa dyspozycji od poniedziałku do piątku w godzinach 9-17.
 tel. 518 452 666, 
 mail: {mailto address="info@kamedia.pl" subject="Kontakt - Kamedia" encode="javascript"}
 </h2>
-adres do odbioru osobistego: 47-400 Racibórz, ul Bosacka 52
+adres do odbioru osobistego: 47-400 Racibórz, ul Sudecka 5
 
 <h2> DANE FIRMY:</h2> 
 
-Agata Kastelik Kamedia  47-400 Racibórz , ul. Eichendorffa 12
+Agata Kastelik Kamedia  47-400 Racibórz , ul. Sudecka 5
 <br>
 Biuro:
-47-400 Racibórz, ul. Bosacka 52
+47-400 Racibórz, ul. Sudecka 5
 
 tel. 518 452 666
 

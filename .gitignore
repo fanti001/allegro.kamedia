@@ -48,3 +48,4 @@ Temporary Items
 *.xml
 nbproject/private/config.properties
 *.properties
+/nbproject/private/
