@@ -52,3 +52,6 @@ nbproject/private/config.properties
 nbproject/project.properties
 
 nbproject/private/private.properties
+*.jpg
+images/gwiazdki.png
+*.png

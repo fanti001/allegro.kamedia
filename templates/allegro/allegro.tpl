@@ -98,6 +98,7 @@ width: 390px;
 margin-top: 77px;
 height:30px;
 padding: 0 20px 0 20px;
+color: c3472d;
 }
 ul {
 display: block;
@@ -107,22 +108,28 @@ list-style: none; }
 li {
 float: left;
 margin-right: 5px;
+color: c3472d;
 }
 a {
 display: block;
 text-decoration: none;
-padding: 3px 5px 3px 8px;
-color: #01ACC5;
+/*padding: 3px 5px 3px 8px;*/
+padding: 0px;
+/*color: #01ACC5;*/
+color: c3472d;
 }
 a:link   a:visited {
-color: #B0E9F1;
+/*color: #B0E9F1;*/
+color: c3472d;
 text-decoration: none;
 position: relative;
 }
 a:hover {
 text-decoration: none;
-color: #C2472D;
-font-weight: bold; }
+color: #01ACC5;
+/*color: c3472d;*/
+/*font-weight: bold;*/ }
+
 #bottom {
 margin-top: 10px;
 float: left;
@@ -138,7 +145,7 @@ background-repeat:repeat-x;
 }
 .wzory {
 width: 1000px;
-padding: 1px 1px 10px 1px;
+/*padding: 1px 1px 10px 1px;*/
 border: gray 0px solid;
 background-color: white;
 margin-left: 50px;
@@ -229,25 +236,25 @@ color: white;
 }
 --></style>
 <div id="wraper">
-<div class="menu" style="margin-left: 3px;">
-<ul>
-<li><a href="http://allegro.kamedia.pl/kategorie.php"> fotoGALERIA</a></li>
-<li><a href="http://allegro.kamedia.pl/aranzacje.php"> pomysły</a></li>
-<li><a href="http://allegro.pl/listing/user/listing.php?us_id=27640620"> aukcje</a></li>
+<div class="menu" style="margin-left: 5px;">
+<ul style="margin-left: 30px; ">
+<li><a href="http://allegro.kamedia.pl/kategorie.php"> galeria |</a></li>
+<li><a href="http://allegro.kamedia.pl/aranzacje.php"> pomysły |</a></li>
+<li><a href="http://allegro.pl/listing/user/listing.php?us_id=27640620"> aukcje |</a></li>
 <li><a href="http://allegro.pl/my_page.php?uid=27640620">o mnie</a></li>
 </ul>
 </div>
 <div id="logo"><a href="http://allegro.kamedia.pl"><img alt="logo kamedia" src="http://allegro.kamedia.pl/images/logo.png"></a></div>
-<div class="menu">
-<ul>
-<li><a href="http://allegro.kamedia.pl/material.php">instrukcje</a></li>
-<li><a href="http://allegro.kamedia.pl/dostawa.php"> dostawa</a></li>
+<div class="menu" style="float: right;">
+<ul style="float: right; margin-right: 30px; ">
+<li><a href="http://allegro.kamedia.pl/material.php">instrukcje |</a></li>
+<li><a href="http://allegro.kamedia.pl/dostawa.php"> dostawa |</a></li>
 <li><a href="http://allegro.kamedia.pl/kontakt.php"> kontakt</a></li>
 </ul>
 </div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/pre_header.jpg"></div>
-<div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/haslo_1.jpg"></div>
+<a href="http://allegro.kamedia.pl"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/haslo_1.jpg"></a>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/header.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/napisz.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/post_header.jpg"></div>
@@ -259,16 +266,25 @@ color: white;
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
 <div class="punkty">
 <h2>JAKOŚĆ</h2>
-<img src="http://kamedia.pl/images/maszyna.jpg"> Fototapety drukujemy na papierze lateksowym, specjalnie zaprojektowanym do produkcji fototapet. Stosujemy ekologiczny tusz, drukujemy na nowoczesnych maszynach przeznaczonych do wysokojakościowych wydruk&oacute;w. Każda tapeta zalaminowana jest stałym laminatem o wykończeniu matowym lub błyszczącym.</div>
+<img src="http://kamedia.pl/images/maszyna.jpg"> Fototapety drukujemy na papierze lateksowym, specjalnie zaprojektowanym do produkcji fototapet. 
+Stosujemy ekologiczny tusz, drukujemy na nowoczesnych maszynach przeznaczonych do wysokojakościowych wydruk&oacute;w. 
+Każda tapeta zalaminowana jest stałym laminatem o wykończeniu matowym lub błyszczącym.</div>
 <div class="punkty">
 <h2>CZAS REALIZACJI</h2>
-<img src="http://kamedia.pl/images/czas.jpg"> Wszyskie fototapety realizowane są na indywidualne zam&oacute;wienie. Zar&oacute;wno wz&oacute;r jak i wymiary zależą tylko od Ciebie, każda tapeta przygotowywana jest indywidualnie przez naszeo grafika. Dlatego termin realizacji wynosi od 4 do 7dni roboczych.</div>
+<img src="http://kamedia.pl/images/czas.jpg"> Wszyskie fototapety realizowane są na indywidualne zam&oacute;wienie. 
+Zar&oacute;wno wz&oacute;r jak i wymiary zależą tylko od Ciebie, każda tapeta przygotowywana jest indywidualnie przez naszeo grafika. 
+Dlatego termin realizacji wynosi od 4 do 7dni roboczych.</div>
 <div class="punkty">
 <h2>BEZPIECZNA WYSYŁKA</h2>
-<img src="http://kamedia.pl/images/paczka.jpg"> Wszystkie zam&oacute;wienia wysyłane są w kartonowych tubach. Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie przesyłki wysyłane są kurierem GLS.</div>
+<img src="http://kamedia.pl/images/paczka.jpg"> Wszystkie zam&oacute;wienia wysyłane są w kartonowych tubach. 
+Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie przesyłki wysyłane są kurierem GLS.</div>
 <div class="punkty">
 <h2>4 KROKI DO ZAM&Oacute;WIENIA</h2>
-<img src="http://kamedia.pl/images/wymiary.jpg"> 1. Prześlij nam swoje wymiary wys(pion) x szer(poziom)<br> 2. Dokonaj wyboru zdjęcia.<br> 3.Wybierz rodzaj laminatu, błyszczący lub matowy<br> 4. KupTeraz odpowiednią ilość szt, 1 szt = 0,1 m2 (np. 0,6 m * 2,5 m2 = 1, 5 m2 = 15 szt)</div>
+<img src="http://kamedia.pl/images/wymiary.jpg"> 
+1. Prześlij nam swoje wymiary wys(pion) x szer(poziom)<br> 
+2. Dokonaj wyboru zdjęcia.<br> 
+3.Wybierz rodzaj laminatu, błyszczący lub matowy<br> 
+4. KupTeraz odpowiednią ilość szt, 1 szt = 0,1 m2 (np. 0,6 m * 2,5 m2 = 1, 5 m2 = 15 szt)</div>
 </div>
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg"> 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_2.jpg"> 
