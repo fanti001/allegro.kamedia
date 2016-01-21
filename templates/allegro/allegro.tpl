@@ -147,7 +147,7 @@ background-repeat:repeat-x;
 width: 1000px;
 /*padding: 1px 1px 10px 1px;*/
 border: gray 0px solid;
-background-color: white;
+/*background-color: white;*/
 margin-left: 50px;
 text-align: center;
 }
@@ -233,6 +233,12 @@ margin: 2px;
 }
 .galeria-miniatura a{
 color: white;
+}
+.kol3 {
+float: left;
+width: 25%;
+margin-left: 5%;
+padding: 0 0 10 0px;
 }
 --></style>
 <div id="wraper">
@@ -449,7 +455,55 @@ Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie p
 <div class="wzory"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/ka_98.jpg"></div>
 <div class="wzory"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/ka_99.jpg"></div>
 <div class="wzory"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/ka_100.jpg"></div>
-<div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/dostawa.jpg"></div>
+
+<div class="row">
+    <div class="kol3">
+        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/biuro.png">  Biuro Obsługi:</h3>
+        <p>
+tel.: 537 378 111
+e-mail: allegro@eobraz.com.pl
+(pon.-pt.: 8.00 - 18.00)
+
+Reklamacje:
+tel.: 571 281 181
+(pon.-pt.: 8.00 - 16.00)
+
+Na maile odpowiadamy w ciągu 24h
+        </p>
+    </div>
+    <div class="kol3">
+    <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/platnosc.png">  Płatności:</h3>    
+        <p>
+Preferujemy płatności za pomocą PayU.
+Gwarantuje to najszybszą realizację.
+
+Nr konta:
+66 2490 0005 0000 4500 3297 0945
+
+Wystawiamy faktury VAT.
+(prosimy o informację przy zamówieniu)
+        </p>
+    </div>
+    
+    <div class="kol3">
+        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/dostawa.png">  Dostawa:</h3>
+        <p>
+Czas realizacji: około 4 dni robocze.
+
+Projekty realizowane są na indywidualne zamówienie. Wydruk musi odparować do laminowania przez co proces produkcji jest czasochłonny. Termin liczony jest od akceptacji
+wizualizacji przesłanej przez naszego grafika do Państwa.
+
+Wysyłki realizujemy za pośrednictwem
+firmy kurierskiej GLS.
+        </p>
+<h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/pakowanie.png">  Pakowanie:</h3>
+<p>
+Dokładamy wszelkich starań aby paczki
+były starannie zapakowane i bezpieczne
+w transporcie.
+        </p>
+    </div>
+</div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/stopka.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/copywrite.jpg"></div>
 <div id="bottom">
