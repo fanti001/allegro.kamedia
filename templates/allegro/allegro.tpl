@@ -263,11 +263,12 @@ padding: 0 0 10 0px;
 <a href="http://allegro.kamedia.pl"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/haslo_1.jpg"></a>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/header.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/napisz.jpg"></div>
+<img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg">
+
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/post_header.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/promocja_1.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/promocja_2.jpg"></div>
 <div class="content">
-<h1 style="font-size: 40px;">Przedmiotem aukcji jest fototapeta lateksowa laminowana<br> 1szt = 0,1m2 w cenie 5,90zł</h1>
 
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
 <div class="punkty">
@@ -292,7 +293,7 @@ Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie p
 3.Wybierz rodzaj laminatu, błyszczący lub matowy<br> 
 4. KupTeraz odpowiednią ilość szt, 1 szt = 0,1 m2 (np. 0,6 m * 2,5 m2 = 1, 5 m2 = 15 szt)</div>
 </div>
-<img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg"> 
+ 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_2.jpg"> 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/deklaracja.jpg"> 
 <img src="http://allegro.kamedia.pl/images/dlaczego_my.jpg"> 
