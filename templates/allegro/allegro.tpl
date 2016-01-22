@@ -263,7 +263,7 @@ padding: 0 0 10 0px;
 <a href="http://allegro.kamedia.pl"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/haslo_1.jpg"></a>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/header.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/napisz.jpg"></div>
-<img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg">
+<div class="header"><img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg"></div>
 
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/post_header.jpg"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/promocja_1.jpg"></div>
@@ -271,29 +271,8 @@ padding: 0 0 10 0px;
 <div class="content">
 
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
-<div class="punkty">
-<h2>JAKOŚĆ</h2>
-<img src="http://kamedia.pl/images/maszyna.jpg"> Fototapety drukujemy na papierze lateksowym, specjalnie zaprojektowanym do produkcji fototapet. 
-Stosujemy ekologiczny tusz, drukujemy na nowoczesnych maszynach przeznaczonych do wysokojakościowych wydruk&oacute;w. 
-Każda tapeta zalaminowana jest stałym laminatem o wykończeniu matowym lub błyszczącym.</div>
-<div class="punkty">
-<h2>CZAS REALIZACJI</h2>
-<img src="http://kamedia.pl/images/czas.jpg"> Wszyskie fototapety realizowane są na indywidualne zam&oacute;wienie. 
-Zar&oacute;wno wz&oacute;r jak i wymiary zależą tylko od Ciebie, każda tapeta przygotowywana jest indywidualnie przez naszeo grafika. 
-Dlatego termin realizacji wynosi od 4 do 7dni roboczych.</div>
-<div class="punkty">
-<h2>BEZPIECZNA WYSYŁKA</h2>
-<img src="http://kamedia.pl/images/paczka.jpg"> Wszystkie zam&oacute;wienia wysyłane są w kartonowych tubach. 
-Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie przesyłki wysyłane są kurierem GLS.</div>
-<div class="punkty">
-<h2>4 KROKI DO ZAM&Oacute;WIENIA</h2>
-<img src="http://kamedia.pl/images/wymiary.jpg"> 
-1. Prześlij nam swoje wymiary wys(pion) x szer(poziom)<br> 
-2. Dokonaj wyboru zdjęcia.<br> 
-3.Wybierz rodzaj laminatu, błyszczący lub matowy<br> 
-4. KupTeraz odpowiednią ilość szt, 1 szt = 0,1 m2 (np. 0,6 m * 2,5 m2 = 1, 5 m2 = 15 szt)</div>
-</div>
- 
+
+<img src="http://allegro.kamedia.pl/szablony/kuchnia/zamawianie.jpg">
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_2.jpg"> 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/deklaracja.jpg"> 
 <img src="http://allegro.kamedia.pl/images/dlaczego_my.jpg"> 
@@ -304,7 +283,7 @@ Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie p
 
 <div class="content">
 <div class="content" style="padding: 0px; width: 1000px; margin-bottom: 10px; margin-left: 52px; background-color: black; margin-top: 20px;">
-<div class="galeria-miniatura"><a href="http://allegro.kamedia.pl/kategorieTree.php?kat=23"><img src="http://allegro.kamedia.pl/images/galeria/panele/1.jpg">kuchnia</a></div>
+<div class="galeria-miniatura"><a href="http://allegro.kamedia.pl/kategorieTree.php?kat=23&amp;x=7"><img src="http://allegro.kamedia.pl/images/galeria/panele/1.jpg">kuchnia</a></div>
 <div class="galeria-miniatura"><a href="http://allegro.kamedia.pl/kategorieTree.php?kat=2"><img src="http://allegro.kamedia.pl/images/galeria/budowle/1.jpg">budowle</a></div>
 <div class="galeria-miniatura"><a href="http://allegro.kamedia.pl/kategorieTree.php?kat=22"><img src="http://allegro.kamedia.pl/images/galeria/ciekawe/1.jpg">ciekawe</a></div>
 <div class="galeria-miniatura"><a href="http://allegro.kamedia.pl/kategorieTree.php?kat=5"><img src="http://allegro.kamedia.pl/images/galeria/dzieci/1.jpg">dla dzieci</a></div>
@@ -457,45 +436,80 @@ Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie p
 <div class="wzory"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/ka_99.jpg"></div>
 <div class="wzory"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/ka_100.jpg"></div>
 
+<div class="punkty">
+<h2>JAKOŚĆ</h2>
+<img src="http://kamedia.pl/images/maszyna.jpg"> Fototapety drukujemy na papierze lateksowym, specjalnie zaprojektowanym do produkcji fototapet. 
+Stosujemy ekologiczny tusz, drukujemy na nowoczesnych maszynach przeznaczonych do wysokojakościowych wydruk&oacute;w. 
+Każda tapeta zalaminowana jest stałym laminatem o wykończeniu matowym lub błyszczącym.</div>
+<div class="punkty">
+<h2>CZAS REALIZACJI</h2>
+<img src="http://kamedia.pl/images/czas.jpg"> Wszyskie fototapety realizowane są na indywidualne zam&oacute;wienie. 
+Zar&oacute;wno wz&oacute;r jak i wymiary zależą tylko od Ciebie, każda tapeta przygotowywana jest indywidualnie przez naszeo grafika. 
+Dlatego termin realizacji wynosi od 4 do 7dni roboczych.</div>
+<div class="punkty">
+<h2>BEZPIECZNA WYSYŁKA</h2>
+<img src="http://kamedia.pl/images/paczka.jpg"> Wszystkie zam&oacute;wienia wysyłane są w kartonowych tubach. 
+Do każdej paczki dołączona jest instrukcja montażu oraz faktura. Wszystkie przesyłki wysyłane są kurierem GLS.</div>
+<div class="punkty">
+<h2>4 KROKI DO ZAM&Oacute;WIENIA</h2>
+<img src="http://kamedia.pl/images/wymiary.jpg"> 
+1. Prześlij nam swoje wymiary wys(pion) x szer(poziom)<br> 
+2. Dokonaj wyboru zdjęcia.<br> 
+3.Wybierz rodzaj laminatu, błyszczący lub matowy<br> 
+4. KupTeraz odpowiednią ilość szt, 1 szt = 0,1 m2 (np. 0,6 m * 2,5 m2 = 1, 5 m2 = 15 szt)</div>
+</div>
+ 
+
 <div class="row">
     <div class="kol3">
         <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/biuro.png">  Biuro Obsługi:</h3>
         <p>
-tel.: 537 378 111
-e-mail: allegro@eobraz.com.pl
+<pre>            
+tel.: 518 452 666
+e-mail: info@kamedia.pl
 (pon.-pt.: 8.00 - 18.00)
 
 Reklamacje:
-tel.: 571 281 181
-(pon.-pt.: 8.00 - 16.00)
+tel.: 518 452 666
+(pon.-pt.: 9.00 - 16.00)
 
 Na maile odpowiadamy w ciągu 24h
-        </p>
-    </div>
-    <div class="kol3">
-    <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/platnosc.png">  Płatności:</h3>    
-        <p>
-Preferujemy płatności za pomocą PayU.
-Gwarantuje to najszybszą realizację.
-
-Nr konta:
-66 2490 0005 0000 4500 3297 0945
-
-Wystawiamy faktury VAT.
-(prosimy o informację przy zamówieniu)
+</pre>
         </p>
     </div>
     
     <div class="kol3">
+    <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/platnosc.png">  Płatności:</h3>    
+        <p>
+        <pre>            
+Preferujemy płatności za pomocą PayU.
+Gwarantuje to najszybszą realizację.
+
+Nr konta:
+
+
+Wystawiamy faktury VAT.
+(prosimy o informację przy zamówieniu)
+        </pre>
+        </p>
+    </div>
+    
+    
+    <div class="kol3">
         <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/dostawa.png">  Dostawa:</h3>
         <p>
+        <pre>            
 Czas realizacji: około 4 dni robocze.
 
-Projekty realizowane są na indywidualne zamówienie. Wydruk musi odparować do laminowania przez co proces produkcji jest czasochłonny. Termin liczony jest od akceptacji
-wizualizacji przesłanej przez naszego grafika do Państwa.
+Projekty realizowane są na indywidualne zamówienie. 
+Wydruk musi odparować do laminowania przez co 
+proces produkcji jest czasochłonny. 
+Termin liczony jest od akceptacji wizualizacji 
+przesłanej przez naszego grafika do Państwa.
 
 Wysyłki realizujemy za pośrednictwem
 firmy kurierskiej GLS.
+        </pre>
         </p>
 <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/pakowanie.png">  Pakowanie:</h3>
 <p>
