@@ -258,11 +258,11 @@ padding: 10px 0px 10px 0px;
 <li><a href="http://allegro.kamedia.pl/kontakt.php"> kontakt</a></li>
 </ul>
 </div>
-<div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
+<div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/common/gwiazdki.png"></div>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/pre_header.jpg"></div>
 <a href="http://allegro.kamedia.pl"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/haslo_1.jpg"></a>
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/header.jpg"></div>
-<div class="header"><img alt="" src="http://allegro.kamedia.pl/images/napisz.jpg"></div>
+<div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/common/napisz.jpg"></div>
 <div class="header"><img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_1.jpg"></div>
 
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/post_header.jpg"></div>
@@ -270,10 +270,10 @@ padding: 10px 0px 10px 0px;
 <div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/kuchnia/promocja_2.jpg"></div>
 <div class="content">
 
-<div class="header"><img alt="" src="http://allegro.kamedia.pl/images/gwiazdki.png"></div>
+<div class="header"><img alt="" src="http://allegro.kamedia.pl/szablony/common/gwiazdki.png"></div>
 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/zamawianie.jpg">
-<img src="http://allegro.kamedia.pl/images/dlaczego_my.jpg">
+<img src="http://allegro.kamedia.pl/szablony/common/dlaczego_my.jpg">
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/opis_2.jpg"> 
 <img src="http://allegro.kamedia.pl/szablony/kuchnia/deklaracja.jpg"> 
  
@@ -456,7 +456,7 @@ Dlatego termin realizacji wynosi od 4 do 7dni roboczych.
         </p>
     </div>
     <div class="kol3">
-<h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/pakowanie.png">  Pakowanie:</h3>
+<h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/pakowanie.png">  Pakowanie:</h3>
 <p>
 Dokładamy wszelkich starań aby paczki
 były starannie zapakowane i bezpieczne
@@ -470,7 +470,7 @@ Wsystkie przsyłki są ubezpieczone.<br>
 
 <div class="row">*}
     <div class="kol3">
-        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/biuro.png">  Biuro Obsługi:</h3>
+        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/biuro.png">  Biuro Obsługi:</h3>
         <p>
       
             tel.: 518 452 666<br>
@@ -487,7 +487,7 @@ Na maile odpowiadamy w ciągu 24h<br>
     </div>
     
     <div class="kol3">
-    <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/platnosc.png">  Płatności:</h3>    
+    <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/platnosc.png">  Płatności:</h3>    
         <p>
           
             Preferujemy płatności za pomocą PayU.<br>
@@ -504,7 +504,7 @@ Wystawiamy faktury VAT.<br>
     
     
     <div class="kol3">
-        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/images/dostawa.png">  Dostawa:</h3>
+        <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/dostawa.png">  Dostawa:</h3>
         <p> 
 Termin liczony jest od akceptacji wizualizacji 
 przesłanej przez naszego grafika do Państwa.
