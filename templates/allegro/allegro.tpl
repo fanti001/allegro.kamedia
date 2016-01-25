@@ -450,7 +450,7 @@ Każda tapeta zalaminowana jest stałym laminatem o wykończeniu matowym lub bł
         
         <h3 style="text-align: left;"><img src="http://allegro.kamedia.pl/szablony/common/czas.png" > Czas realizacji</h3>
         <p>    
-        Wszyskie fototapety realizowane są na indywidualne zam&oacute;wienie. <br>
+        Fototapety realizowane są na indywidualne zam&oacute;wienie. <br>
         Zar&oacute;wno wz&oacute;r jak i wymiary zależą tylko od Ciebie, każda tapeta przygotowywana jest indywidualnie przez naszego grafika.<br><br> 
 Dlatego termin realizacji wynosi od 4 do 7dni roboczych.
         </p>
@@ -458,17 +458,14 @@ Dlatego termin realizacji wynosi od 4 do 7dni roboczych.
     <div class="kol3">
 <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/pakowanie.png">  Pakowanie:</h3>
 <p>
-Dokładamy wszelkich starań aby paczki
+Dokładamy wszelkich starań, aby paczki
 były starannie zapakowane i bezpieczne
 w transporcie.<br>
 Wszystkie zamówienia wysyłane są w kartonowych tubach. <br>
-Wsystkie przsyłki są ubezpieczone.<br>
+Przesyłki są ubezpieczone.<br>
 <br>Do każdej paczki dołączona jest instrukcja montażu oraz faktura.<br>
         </p>
     </div>
-{*</div>
-
-<div class="row">*}
     <div class="kol3">
         <h3 style="text-align: left;"><img alt="" src="http://allegro.kamedia.pl/szablony/common/biuro.png">  Biuro Obsługi:</h3>
         <p>
@@ -497,7 +494,7 @@ Nr konta:<br>
 57 1020 2472 0000 6002 0419 8016<br>
 <br>
 Wystawiamy faktury VAT.<br>
-(prosimy o informację przy zamówieniu)<br>
+<br>
         
         </p>
     </div>
