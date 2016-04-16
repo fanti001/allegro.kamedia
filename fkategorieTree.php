@@ -26,8 +26,11 @@ $smarty->assign('id_prefix', 'F_');
 
 $smarty->assign('szukaj_wiecej', true);
 
+$smarty->display('kategorieTree.tpl');
+/*
 if (in_array($kat, array(15, 23), true)) {
 	$smarty->display('kategorieTree'.$kat.'.tpl');
 } else {
 	$smarty->display('kategorieTree.tpl');
 }
+*/
