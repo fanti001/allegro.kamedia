@@ -1,7 +1,6 @@
 <?php
 session_start();
 require('libs/Smarty.class.php');
-require_once('phpmailer/class.phpmailer.php');
 require './config.php';
 require './obrazek.class.php';
 
@@ -137,23 +136,44 @@ if (preg_match('/^F_\d+$/', $_POST['id_obrazu'])) {
 } else
 	die(__LINE__.' Brak obrazu');
 
-$mail = new PHPMailer();
-$mail->PluginDir = "phpmailer/";
-$mail->From = "info@kamedia.pl";
-$mail->FromName = "Allegro kamedia konfigurator Fototapet";
-$mail->Host = "ALT3.ASPMX.L.GOOGLE.COM";
-$mail->Mailer = "smtp";
-$mail->Username = "info@kamedia.pl";
-$mail->Password = "bareq7BaS"; 
-$mail->SMTPAuth = false;
-$mail->Port = 25;
-$mail->SetLanguage("pl", "phpmailer/language/");
+require './phpmailer/PHPMailerAutoload.php';
+//Create a new PHPMailer instance
+$mail = new PHPMailer;
+//Tell PHPMailer to use SMTP
+$mail->isSMTP();
+//Enable SMTP debugging
+// 0 = off (for production use)
+// 1 = client messages
+// 2 = client and server messages
+$mail->SMTPDebug = 0;
+// kodowanie
 $mail->CharSet = "UTF-8";
+//Ask for HTML-friendly debug output
+$mail->Debugoutput = 'html';
+//Set the hostname of the mail server
+$mail->Host = 'smtp.gmail.com';
+// // use
+// $mail->Host = gethostbyname('smtp.gmail.com');
+// if your network does not support SMTP over IPv6
+//Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
+$mail->Port = 587;
+//Set the encryption system to use - ssl (deprecated) or tls
+$mail->SMTPSecure = 'tls';
+//Whether to use SMTP authentication
+$mail->SMTPAuth = true;
+//Username to use for SMTP authentication - use full email address for gmail
+$mail->Username = "biuro@kamedia.pl";
+//Password to use for SMTP authentication
+$mail->Password = "agzeara001";
+//Set who the message is to be sent from
+$mail->setFrom('biuro@kamedia.pl', 'Konfigurator');
+//Set an alternative reply-to address
+$mail->addReplyTo('biuro@kamedia.pl', 'Konfigurator');
+//Set who the message is to be sent to
+$mail->addAddress($potwierdzenie['email'], $potwierdzenie['login']);
+//Set the subject line
+$mail->Subject = "Wiadomoœæ z konfiguratora Allegro.Kamedia.pl";
 
-$mail->AddAddress($potwierdzenie['email']);		// ADRESAT
-$mail->IsHTML(true);							// send as HTML
-
-$mail->Subject = "WiadomoÅ›Ä‡ z konfiguratora Allegro.Kamedia.pl";
 
 $tmpKadrName = tempnam(sys_get_temp_dir(), 'kadr_');
 $kadrURL = "http://allegro.kamedia.pl/img_effect.php?file=".urlencode($kategoria->folder.'/'.$obraz->plik)."&crop=".$potwierdzenie['Sx1'].",".$potwierdzenie['Sy1'].",".$potwierdzenie['Sx2'].",".$potwierdzenie['Sy2']."&effect=".urlencode($potwierdzenie['efekt']).'&border=1';
