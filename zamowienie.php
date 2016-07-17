@@ -144,7 +144,7 @@ $mail->FromName = "Allegro kamedia konfigurator Fototapet";
 $mail->Host = "ALT3.ASPMX.L.GOOGLE.COM";
 $mail->Mailer = "smtp";
 $mail->Username = "info@kamedia.pl";
-$mail->Password = "agzeara001";
+$mail->Password = "bareq7BaS"; 
 $mail->SMTPAuth = false;
 $mail->Port = 25;
 $mail->SetLanguage("pl", "phpmailer/language/");
