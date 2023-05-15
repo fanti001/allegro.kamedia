@@ -1,3 +1,3 @@
-# allegro.kamedia.pl
+# allegro.kamedia
 konfigurator
-http://allegro.kamedia.pl/
+
